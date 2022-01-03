@@ -1,0 +1,13 @@
+name: OPMobs
+version: 1.0
+main: com.nerdxd.opmobs.Main
+api-version: 1.17
+authors: [ NerdXD ]
+description: OPMobs will spawn
+commands:
+  training:
+    description: Training
+    usage: /<command>
+  real:
+    description: The real thing
+    usage: /<command>
